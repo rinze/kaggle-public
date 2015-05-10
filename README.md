@@ -4,6 +4,6 @@ This public repository will contain my [Kaggle](https://www.kaggle.com/users/101
 
 So far, this is published here:
 
-* [Restaurant Revenue Prediction](https://github.com/rinze/kaggle-public/restaurant-revenue-prediction).
+* [Restaurant Revenue Prediction](https://github.com/rinze/kaggle-public/tree/master/restaurant-revenue-prediction).
 
 More to come. Stay tuned.
