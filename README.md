@@ -6,5 +6,6 @@ So far, this is published here:
 
 * [Galaxy Zoo](https://github.com/rinze/kaggle-public/tree/master/galaxy-zoo). [Original Bitbucket repo](https://bitbucket.org/rinze/kaggle-galaxy-zoo).
 * [Restaurant Revenue Prediction](https://github.com/rinze/kaggle-public/tree/master/restaurant-revenue-prediction). [Original Bitbucket repo](https://bitbucket.org/rinze/kaggle-restrev).
+* [Facebook Recruiting IV](https://github.com/rinze/kaggle-public/tree/master/fr4). [Original Bitbucket repo](https://bitbucket.org/rinze/kaggle-fr4).
 
 More to come. Stay tuned.
